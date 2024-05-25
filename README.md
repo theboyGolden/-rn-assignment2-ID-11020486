@@ -7,4 +7,5 @@
 
 ## Screenshot of myApp when run on an Iphone X using Expo go App
 
+https://github.com/theboyGolden/rn-assignment2-ID-11020486/blob/main/Myapp/app_screenshot.jpg
 ![app screenshot](Myapp\app_screenshot.jpg)
