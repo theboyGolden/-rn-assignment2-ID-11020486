@@ -7,4 +7,4 @@
 
 ## Screenshot of myApp when run on an Iphone X using Expo go App
 
-![app screenshot](Myapp\app_screenshot.jpg)
+![app screenshot](app_screenshot.jpg)
