@@ -4,7 +4,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.myName}>My name is Amenuveve Precious Tsewoo</Text>
+      <Text style={styles.myName}>
+        My name is <Text style={styles.boldText}>Amenuveve Precious Tsewoo</Text>
+      </Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -20,5 +22,9 @@ const styles = StyleSheet.create({
 
   myName: {
     fontSize: 24,
-  }
+  },
+
+  boldText: {
+    fontWeight: 'bold',
+  },
 });
